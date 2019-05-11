@@ -10,6 +10,11 @@ A follow-along project from [Reed Barger's course](https://www.udemy.com/build-a
 - MongoDB
 - Google OAuth
 
+⭐️ Features
+
+- Live updates with GraphQL Subscriptions
+- Automatic Signup and Login with Google
+
 # Install and Run
 
 ```bash
